@@ -21,6 +21,11 @@
 
 
 <h1 align="center">Hi 👋, This is Abbas</h1>
+<p align="center">Grounded and solution-oriented Full Stack Engineer specializing in React, Angular, and Django.
+Proficient in frontend tools such as HTML/CSS, Bootstrap, Ant Design, and MUI, as well as
+backend technologies including Django ORM, Django Rest Framework, WebSockets, and
+PostgreSQL. Committed to delivering captivating and scalable code for an immersive user
+experience. Let's collaborate and create something truly amazing together</p>
 
 <img align="center" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
