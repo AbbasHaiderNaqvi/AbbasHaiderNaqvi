@@ -30,12 +30,7 @@ experience. Let's collaborate and create something truly amazing together</p>
 <img align="center" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 
-
-
-<h3 align="center">Languages and Tools:</h3>
-
-
-<div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashutosh-pmishra&show_icons=true&locale=en&layout=compact" alt="ashutosh-pmishra" /></dive>
+<div><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashutosh-pmishra&show_icons=true&locale=en&layout=compact" alt="ashutosh-pmishra" /></dive>
 
 
 <div><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashutosh-pmishra&" alt="ashutosh-pmishra" /></div>
